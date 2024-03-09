@@ -19,4 +19,4 @@ def chat(prompt):
                 response= chat(user_input)
                 print("ChatBot",response)
 
-                # Not working because of some issues in openai imports
+                
